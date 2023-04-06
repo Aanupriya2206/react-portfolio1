@@ -1,18 +1,20 @@
-import pro1 from "../assets/quiz.png"
+import pro1 from "../assets/codepen.png"
 import pro2 from "../assets/qrgen.png"
 import pro3 from "../assets/todo.png"
 const ProjectCardData=[
     {
         imgsrc:pro1,
-        title:"Quiz Application",
-        text:"A React-based Quiz application to enhance your knowledge about React-framework. I've work with complex state objects, how to handle different state hooks, and render things based on state.",
-        view:"https://youtu.be/AB1nzr83I8g"
+        title:"Codepen Clone",
+        text:"A HTML,CSS,JavaScript based Editor to enhance your front-end web development skills. It is a free platform to practise and have hands-on HTML,CSS,JS.",
+        view:"editor-3jpcc32hx-aanupriya2206.vercel.app",
+        source:"https://github.com/Aanupriya2206/react-code-editor.git"
     },
     {
         imgsrc:pro2,
         title:"QR Generator",
         text:"A React-based QR Generator that can generate QR's for any text or url. I have used the react-qr-code package to achieve so. For the QR code, we are going to use an npm package called react-qr-code. ",
-        view:"https://youtu.be/Rd0dshSLCFw"
+        view:"qr-code-react-5gg5xrju5-aanupriya2206.vercel.app",
+        source:"https://github.com/Aanupriya2206/QRCode-React.git"
     },
     {
         imgsrc:pro3,
