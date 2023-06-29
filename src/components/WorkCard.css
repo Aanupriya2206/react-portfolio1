@@ -13,7 +13,7 @@
 }
 
 .project-card{
-    background: #1a1919;
+    background: rgba(15, 43, 71, 0.8);
     padding: 1.2rem 1rem;
 }
 
@@ -39,6 +39,8 @@
 }
 .pro-btns .btn{
     padding: 0.5rem 1rem;
+    background-color: rgba(0, 13, 26, 0.8);
+    color:white;
 }
 
 @media  screen and (max-width:740px) {
